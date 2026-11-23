@@ -15,8 +15,8 @@ class BankAccount:
 # Create a bank account
 account = BankAccount(
     "Ashwini",
-    "1234554321",
-    25000
+    "1234567890",
+    30000
 )
 
 # Check bank balance
